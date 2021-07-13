@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/emphasoft/static/js/main.e3e3244c.chunk.js",
+    "main.js.map": "/emphasoft/static/js/main.e3e3244c.chunk.js.map",
+    "runtime-main.js": "/emphasoft/static/js/runtime-main.75c02eea.js",
+    "runtime-main.js.map": "/emphasoft/static/js/runtime-main.75c02eea.js.map",
+    "static/js/2.07ea286d.chunk.js": "/emphasoft/static/js/2.07ea286d.chunk.js",
+    "static/js/2.07ea286d.chunk.js.map": "/emphasoft/static/js/2.07ea286d.chunk.js.map",
+    "static/js/3.087e8376.chunk.js": "/emphasoft/static/js/3.087e8376.chunk.js",
+    "static/js/3.087e8376.chunk.js.map": "/emphasoft/static/js/3.087e8376.chunk.js.map",
+    "index.html": "/emphasoft/index.html",
+    "static/js/2.07ea286d.chunk.js.LICENSE.txt": "/emphasoft/static/js/2.07ea286d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75c02eea.js",
+    "static/js/2.07ea286d.chunk.js",
+    "static/js/main.e3e3244c.chunk.js"
+  ]
+}
