@@ -1,6 +1,6 @@
 import ENDPOINTS from "./endpoints"
 
-const BASE_URL = "http://emphasoft-test-assignment.herokuapp.com";
+const BASE_URL = "https://emphasoft-test-assignment.herokuapp.com";
 
 class Api {
     constructor(baseUrl, endpoints) {
