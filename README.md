@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Annotation
+
+При удалении пользователя он помечается как `is_active: false`.
+
+Пользователи, которые `is_active: false` не отображаются в списке пользователей.
+
+Установить `is_active` в `true` или реально удалить пользователя невозможно.
+
 ## Available Scripts
 
 In the project directory, you can run:
