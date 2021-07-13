@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "checkJs": true,
+        "baseUrl": "./",
+        "jsx":"react-jsx",
+        "paths": {
+            "@root/*": ["src/*"],
+            "@components/*": ["src/components/*"],
+            "@modules/*": ["src/modules/*"],
+            "@hooks/*": ["src/hooks/*"],
+            "": ["node_modules"]
+        }
+    },
+    "exclude": ["node_modules", "**/node_modules/*", "dist"]
+}
